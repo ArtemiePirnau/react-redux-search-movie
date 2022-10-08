@@ -2,6 +2,7 @@
 # Description
 An application where we receive data from an API (OMDb API) with movies, cartoons, anime, etc.
 We can search for a certain movie by writing its name in the input, and you will see similar movies or those that include the text written in the input
+As state management I used Redux
 # Installation
 First of all install all npm packages with the command:
 ```
